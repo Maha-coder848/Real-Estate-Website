@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/* tailwind */
+@import "tailwindcss";
+
+
+/* for all text */
+*{
+    font-family: Outfit;
+}
